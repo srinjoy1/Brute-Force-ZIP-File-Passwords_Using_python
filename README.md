@@ -7,8 +7,10 @@ This Python script is designed to crack passwords of ZIP files using a custom wo
 
 𝐔𝐬𝐚𝐠𝐞
 
-Clone the repository: $ git clone https://github.com/yourusername/zip-password-cracker.git
-Navigate to the project directory: $ cd zip-password-cracker
+Clone the repository: 
+$ git clone https://github.com/srinjoy1/Brute-Force-ZIP-File-Passwords_Using_python.git
+Navigate to the project directory: 
+$ cd zip-password-cracker
 Ensure you have Python installed.
 Modify the list.txt file with your list of passwords.
 Replace helloww.zip with the name of your password-protected ZIP file.
